@@ -1,4 +1,4 @@
-# Student-Marks-Prediction
+# Student-Marks-Prediction using Machine Learning 
 
 
 code run - python app.py
