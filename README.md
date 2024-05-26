@@ -33,6 +33,10 @@ Deployment: Implement the model for practical use, allowing predictions on new d
 Monitoring and Maintenance: Continuously monitor the model's performance and retrain it with new data to maintain accuracy.
 
 
+![Uploading Screenshot (48).png…]()
+
+![Uploading Screenshot (49).png…]()
+
 
 
 
